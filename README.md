@@ -1,4 +1,5 @@
-
+# NAME: PRADEEP V
+# REG NO: 212223240119
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
